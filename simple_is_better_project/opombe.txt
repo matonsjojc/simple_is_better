@@ -1,0 +1,2 @@
+to fix:
+- pri modelih preveri/spremeni on_delete
